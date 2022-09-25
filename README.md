@@ -24,3 +24,11 @@ ScreenShot:-
 ![second](https://user-images.githubusercontent.com/58482473/192151988-4915d422-b541-4d16-be2a-15fac50ed455.png)
 ![third](https://user-images.githubusercontent.com/58482473/192151923-9c2faf76-43e8-4fa5-84e9-e3d3b391ded9.png)
 ![fourth](https://user-images.githubusercontent.com/58482473/192151999-a801ff33-8661-4789-b813-7b4b1d7dca14.png)
+
+echo "# SPSGP-64113-Virtual-Internship---Android-Application-Development-Using-Kotlin" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/smartinternz02/SPSGP-64113-Virtual-Internship---Android-Application-Development-Using-Kotlin.git
+git push -u origin main
