@@ -1,12 +1,12 @@
 # SPSGP-64113-Virtual-Internship---Android-Application-Development-Using-Kotlin
 
-Android-Application-Development-Using-Kotlin
+              Android-Application-Development-Using-Kotlin
 
 Name- Bhushan Lilhare
 
 SBID: SB20220211518
 
-https://github.com/smartinternz02/SPSGP-64113-Virtual-Internship---Android-Application-Development-Using-Kotlin.git
+remote add origin https://github.com/smartinternz02/SPSGP-64113-Virtual-Internship---Android-Application-Development-Using-Kotlin.git
 
 SmartInternz Profile:- https://smartinternz.com/student-profile/feed/U0IyMDIyMDIxMTUxOA==
 
